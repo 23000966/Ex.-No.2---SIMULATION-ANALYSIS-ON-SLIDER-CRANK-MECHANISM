@@ -43,8 +43,11 @@
 
 ![image](https://github.com/Sellakumar1987/Ex.-No.2---SIMULATION-ANALYSIS-ON-SLIDER-CRANK-MECHANISM/assets/113594316/188cba1a-fe54-4549-a6e5-3bb6b8d7b120)
 
-## Output
-Screenshot 2023-12-26 182623 Screenshot 2023-12-26 182637 Screenshot 2023-12-26 182748
+## Output:
+![image](https://github.com/23000966/Ex.-No.2---SIMULATION-ANALYSIS-ON-SLIDER-CRANK-MECHANISM/assets/153983364/66442d1b-4a2c-44ba-a4bb-92fad313f80c)
+![image](https://github.com/23000966/Ex.-No.2---SIMULATION-ANALYSIS-ON-SLIDER-CRANK-MECHANISM/assets/153983364/d02c92cb-3e49-4418-af13-6a5dd38e22cb)
+![image](https://github.com/23000966/Ex.-No.2---SIMULATION-ANALYSIS-ON-SLIDER-CRANK-MECHANISM/assets/153983364/990eaf13-c3d6-4e53-a8e4-28c4365068ad)
+
 
 ### Name: SANTHOSH KUMAR R
 ### Register Number: 23000966
